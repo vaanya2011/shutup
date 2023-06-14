@@ -1,0 +1,63 @@
+body{
+    text-align: center;
+    background-color:rgba(255,247,243,255);
+}
+
+#main{
+    height:700px;
+    width:100%;
+}
+
+#main1{
+    height:700px;
+    width:100%;
+}
+.wrapper {
+    position: relative;
+ }
+ 
+ .wrapper .glyphicon {
+    position: absolute;
+    top: 350px;
+    left: 1450px;
+ }
+ .wrapper1 .glyphicon {
+    position: absolute;
+    top: 350px;
+    left: 10px;
+ }
+ #maindi{
+    height:0px;
+    width:100%;
+ }
+ #throat{
+    height:700px;
+    width:100%;
+ }
+ p {
+    font-size: 100px;
+  }
+
+  .throatimg{
+    width:85%;
+    height:700px;
+  }
+.m{
+   border-radius: 20px;
+   width:300px;
+   height:300px;
+}
+div{
+   height:100%;
+   width: 100%;
+}
+
+.hi{
+   height:200px;
+   width:200px;
+   border: solid;
+   border-radius: 20px;
+}
+span{
+   display: inline-block;
+}
